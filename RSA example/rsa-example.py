@@ -1,4 +1,5 @@
-#/usr/bin/python3
+#!/usr/bin/env python
+
 # Python example for RSA algorithm by M. Schapranow
 import time # used for timing measurement
 
